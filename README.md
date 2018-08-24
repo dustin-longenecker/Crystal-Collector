@@ -9,4 +9,6 @@
 # The value of each crystal is hidden from you until you click on it.
 
 # Each time the game starts, the game will change the values of each crystal.
+
+#https://dustin-longenecker.github.io/Crystal-Collector/
       
